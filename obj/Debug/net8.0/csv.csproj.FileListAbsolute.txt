@@ -1,0 +1,17 @@
+C:\Users\server egy\Desktop\csv\bin\Debug\net8.0\csv.exe
+C:\Users\server egy\Desktop\csv\bin\Debug\net8.0\csv.deps.json
+C:\Users\server egy\Desktop\csv\bin\Debug\net8.0\csv.runtimeconfig.json
+C:\Users\server egy\Desktop\csv\bin\Debug\net8.0\csv.dll
+C:\Users\server egy\Desktop\csv\bin\Debug\net8.0\csv.pdb
+C:\Users\server egy\Desktop\csv\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\csv.csproj.AssemblyReference.cache
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\csv.AssemblyInfoInputs.cache
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\csv.AssemblyInfo.cs
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\csv.csproj.CoreCompileInputs.cache
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\csv.csproj.Up2Date
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\csv.dll
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\refint\csv.dll
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\csv.pdb
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\csv.genruntimeconfig.cache
+C:\Users\server egy\Desktop\csv\obj\Debug\net8.0\ref\csv.dll

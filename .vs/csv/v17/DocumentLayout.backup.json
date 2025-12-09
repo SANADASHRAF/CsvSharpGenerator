@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\server egy\\Desktop\\csv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\utils\\generationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:utils\\generationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\services\\datagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:services\\datagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\services\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:services\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\models\\mother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:models\\mother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\models\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:models\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\models\\studentsdistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:models\\studentsdistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\models\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:models\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|c:\\users\\server egy\\desktop\\csv\\models\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}|csv.csproj|solutionrelative:models\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:05:18.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Name.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Name.cs",
+              "RelativeDocumentMoniker": "Models\\Name.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Name.cs",
+              "RelativeToolTip": "Models\\Name.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:05:16.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mother.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Mother.cs",
+              "RelativeDocumentMoniker": "Models\\Mother.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Mother.cs",
+              "RelativeToolTip": "Models\\Mother.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:05:14.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Father.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Father.cs",
+              "RelativeDocumentMoniker": "Models\\Father.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Father.cs",
+              "RelativeToolTip": "Models\\Father.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:05:11.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Family.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Family.cs",
+              "RelativeDocumentMoniker": "Models\\Family.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Models\\Family.cs",
+              "RelativeToolTip": "Models\\Family.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:05:08.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsDistribution.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Models\\StudentsDistribution.cs",
+              "RelativeDocumentMoniker": "Models\\StudentsDistribution.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Models\\StudentsDistribution.cs",
+              "RelativeToolTip": "Models\\StudentsDistribution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:30:24.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwHsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:21:27.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Services\\DataGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\DataGenerator.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Services\\DataGenerator.cs",
+              "RelativeToolTip": "Services\\DataGenerator.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAEwLMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:48:18.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvExporter.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Services\\CsvExporter.cs",
+              "RelativeDocumentMoniker": "Services\\CsvExporter.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Services\\CsvExporter.cs",
+              "RelativeToolTip": "Services\\CsvExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:47:56.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerationHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Utils\\GenerationHelpers.cs",
+              "RelativeDocumentMoniker": "Utils\\GenerationHelpers.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Utils\\GenerationHelpers.cs",
+              "RelativeToolTip": "Utils\\GenerationHelpers.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wEMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:46:48.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\server egy\\Desktop\\csv\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\server egy\\Desktop\\csv\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:46:01.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
