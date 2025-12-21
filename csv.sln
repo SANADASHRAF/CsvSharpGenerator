@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csv", "csv.csproj", "{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachersGenerator", "..\TeachersGenerator\TeachersGenerator.csproj", "{7B53F9DA-F2C6-4143-849C-69D5D8D4B551}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F3FAACD-70EB-42F6-A1E3-584711D1ADD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B53F9DA-F2C6-4143-849C-69D5D8D4B551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B53F9DA-F2C6-4143-849C-69D5D8D4B551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B53F9DA-F2C6-4143-849C-69D5D8D4B551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B53F9DA-F2C6-4143-849C-69D5D8D4B551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
